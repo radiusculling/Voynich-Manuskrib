@@ -1,0 +1,1 @@
+Possible words automatically updates as it unscrambles. Ignore it's default list.
